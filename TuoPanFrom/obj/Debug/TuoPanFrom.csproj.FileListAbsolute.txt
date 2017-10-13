@@ -1,0 +1,14 @@
+D:\VSDome\TuoPanFrom\TuoPanFrom\bin\Debug\TuoPanFrom.exe.config
+D:\VSDome\TuoPanFrom\TuoPanFrom\bin\Debug\TuoPanFrom.exe.manifest
+D:\VSDome\TuoPanFrom\TuoPanFrom\bin\Debug\TuoPanFrom.application
+D:\VSDome\TuoPanFrom\TuoPanFrom\bin\Debug\TuoPanFrom.exe
+D:\VSDome\TuoPanFrom\TuoPanFrom\bin\Debug\TuoPanFrom.pdb
+D:\VSDome\TuoPanFrom\TuoPanFrom\obj\Debug\TuoPanFrom.Form1.resources
+D:\VSDome\TuoPanFrom\TuoPanFrom\obj\Debug\TuoPanFrom.Form2.resources
+D:\VSDome\TuoPanFrom\TuoPanFrom\obj\Debug\TuoPanFrom.Properties.Resources.resources
+D:\VSDome\TuoPanFrom\TuoPanFrom\obj\Debug\TuoPanFrom.csproj.GenerateResource.Cache
+D:\VSDome\TuoPanFrom\TuoPanFrom\obj\Debug\TuoPanFrom.exe.manifest
+D:\VSDome\TuoPanFrom\TuoPanFrom\obj\Debug\TuoPanFrom.application
+D:\VSDome\TuoPanFrom\TuoPanFrom\obj\Debug\TuoPanFrom.exe
+D:\VSDome\TuoPanFrom\TuoPanFrom\obj\Debug\TuoPanFrom.pdb
+D:\VSDome\TuoPanFrom\TuoPanFrom\obj\Debug\TuoPanFrom.csprojResolveAssemblyReference.cache
