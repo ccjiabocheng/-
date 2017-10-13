@@ -64,7 +64,7 @@
             this.toolStripSeparator2,
             this.关闭ToolStripMenuItem});
             this.mainNotifyContextMenuStrip.Name = "mainNotifyContextMenuStrip";
-            this.mainNotifyContextMenuStrip.Size = new System.Drawing.Size(166, 160);
+            this.mainNotifyContextMenuStrip.Size = new System.Drawing.Size(166, 138);
             // 
             // 选择进程ToolStripMenuItem
             // 
@@ -128,6 +128,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(196, 261);
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
             this.mainNotifyContextMenuStrip.ResumeLayout(false);
             this.ResumeLayout(false);

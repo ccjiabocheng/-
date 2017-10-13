@@ -11,4 +11,3 @@ D:\VSDome\TuoPanFrom\TuoPanFrom\obj\Debug\TuoPanFrom.exe.manifest
 D:\VSDome\TuoPanFrom\TuoPanFrom\obj\Debug\TuoPanFrom.application
 D:\VSDome\TuoPanFrom\TuoPanFrom\obj\Debug\TuoPanFrom.exe
 D:\VSDome\TuoPanFrom\TuoPanFrom\obj\Debug\TuoPanFrom.pdb
-D:\VSDome\TuoPanFrom\TuoPanFrom\obj\Debug\TuoPanFrom.csprojResolveAssemblyReference.cache

@@ -20,6 +20,7 @@ namespace TuoPanFrom
         {
             InitializeComponent();
             Init();
+            MessageBox.Show("监控启动成功");
         }
         protected override void SetVisibleCore(bool x)
         {
@@ -32,10 +33,10 @@ namespace TuoPanFrom
             ServiceName = ConfigurationManager.AppSettings["ServiceName"];
             ServiceController Sc = new ServiceController(ServiceName);
             sc = Sc;
-
+            开启关闭自启动ToolStripMenuItem.Text = "自启动（关闭）";
             try
             {
-                Stute();
+             
                 if (sc.Status.Equals(ServiceControllerStatus.Stopped))
                 {
                     mainNotifyIcon.Icon = new Icon(OffSrc);
@@ -278,7 +279,7 @@ namespace TuoPanFrom
         #endregion
 
         #region 属性
-        private int zidong;
+        private int zidong=0;
         public int Zidong
         {
             get
